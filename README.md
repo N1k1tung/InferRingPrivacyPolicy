@@ -5,3 +5,13 @@
 ## This application does not collect or store personal data.
 
 If you have any inquiries - submit them to [email](mailto://bulletstormer@hotmail.co.uk)
+
+## Models
+
+App allows user to download and run local LLMs from a curated list of models. 
+
+Models are downloaded from HuggingFace and run locally on user's devices. 
+
+No data is sent to any server. 
+
+List of models and respective licenses are listed in [MODELS.md](MODELS.md).
