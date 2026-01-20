@@ -12,3 +12,6 @@ License: [Apache 2.0](https://github.com/openai/gpt-oss/blob/main/LICENSE)
 
 License: [LFM Open License v1.0](https://www.liquid.ai/lfm-license)
 
+## GLM4.7
+
+License: [Apache 2.0](https://github.com/zai-org/GLM-4.5/blob/main/LICENSE)
